@@ -3,7 +3,7 @@ public:
     int findChampion(int n, vector<vector<int>>& edges) {
         
         vector<int>isPossible(n);       // boolean array to store the number of incoming edeges to the ith node
-        for(auto e : edges) {
+        for(auto& e : edges) {
             isPossible[e[1]]++;
         }
         
