@@ -1,52 +1,47 @@
 class Solution {
 public:
 
-    typedef pair<int,int> pair;
-
     int numBusesToDestination(vector<vector<int>>& routes, int source, int target) {
         
         if(source == target)return 0;
 
-        unordered_map<int, set<int>>route;
-        unordered_map<int, set<int>>buses;
+        int maxStop = -1;
 
-        int n = routes.size();
-        for(int i = 0 ; i < n ; i++) {
-            for(auto stops : routes[i]) {
-                buses[i].insert(stops);
-                route[stops].insert(i);
+        for(auto& route : routes) {
+            for(int stop : route) {
+                maxStop = max(maxStop,  stop);
+
             }
         }
 
-        
-        unordered_map<int,bool>stopVisited;
+        if(maxStop < target)return -1;
 
-        unordered_map<int,bool>routeVisited;
-        queue<pair>q;
-        q.push({0, source}); 
-        stopVisited[source] = true;
-        while(!q.empty()) {
-            auto p = q.front();
-            q.pop();
+        int n = routes.size() ;
+        vector<int>minBusesToReach(maxStop+1, INT_MAX);
 
-            for(auto r : route[p.second]) {
-                if(routeVisited[r])continue;
-                routeVisited[r] = true;
-                for(auto stop : buses[r]) {
-                    if(stopVisited[stop])continue;
-                    if(stop == target)return p.first+1;
-                    stopVisited[stop] = true;
-
-                    q.push({p.first+1 , stop});
+        minBusesToReach[source] =0 ;
+        bool flag = true;
+        while(flag) {
+            flag = false;
+            for(auto route : routes) {
+                int min = n+1;
+                for(int stop : route) {
+                    min = std::min(min, minBusesToReach[stop]);
+                }    
+                min++;
+                for(int stop : route) {
+                    if(minBusesToReach[stop] > min){
+                        minBusesToReach[stop] = min;
+                        flag= true;
+                    }
                 }
-                buses[r].clear();
-
-                routeVisited[r] = true;
             }
-            route[p.second].clear();
+
         }
 
-        return -1;
+
+        return (minBusesToReach[target] < n+1) ? minBusesToReach[target] : -1;
+
 
     }
 
