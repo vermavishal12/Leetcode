@@ -6,11 +6,11 @@ public:
         for(int i = 0; i < n-1; i++) {
             if(nums1[i] <= nums1[n-1] && nums2[i] <= nums2[n-1])continue;   // if the elements are already less than the last element of the respective array.
             
-            if(max(nums1[i],nums2[i]) > max(nums1[n-1] , nums2[n-1]))   // if the maximum of current index element in the arrays is greater than the maximum of the last two values then return -1 as the required condition cannot be satisified.
-                return -1;
+            if(max(nums1[i],nums2[i]) > max(nums1[n-1] , nums2[n-1]))   // if the maximum of current index element in the arrays is greater than 
+                return -1;                                                // the maximum of the last two values then return -1 as the required condition cannot be satisified.
             
-            if(min(nums1[i], nums2[i]) > min(nums1[n-1], nums2[n-1]))   // if the minimum of current index element in the arrays is greater than the minimum of the last two values then return -1 as the required condition cannot be satisified.
-                return -1;
+            if(min(nums1[i], nums2[i]) > min(nums1[n-1], nums2[n-1]))   // if the minimum of current index element in the arrays is greater than 
+                return -1;                                                // the minimum of the last two values then return -1 as the required condition cannot be satisified.
             
             cnt++;
             
