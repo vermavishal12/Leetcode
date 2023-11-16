@@ -28,11 +28,9 @@ The largest element in arr is 2.
 <strong>Input:</strong> arr = [100,1,1000]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> One possible way to satisfy the conditions is by doing the following:
-<ol>
-<li> Rearrange arr so it becomes [1,100,1000].</li>
-<li>Decrease the value of the second element to 2.</li>
-<li>Decrease the value of the third element to 3.</li>
-<ol>
+1. Rearrange arr so it becomes [1,100,1000].
+2. Decrease the value of the second element to 2.
+3. Decrease the value of the third element to 3.
 Now arr = [1,2,3], which satisfies the conditions.
 The largest element in arr is 3.
 </pre>
