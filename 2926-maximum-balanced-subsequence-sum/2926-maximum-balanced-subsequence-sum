@@ -1,0 +1,36 @@
+// this current solution is giving TLE because of the complexity
+
+class Solution {
+public:
+    
+    typedef long long ll;
+    
+    ll helper(int index, vector<int>&nums, vector<int>&arr, int prev, int n) {
+        if (index == n)return 0;
+        
+        ll res = helper(index+1, nums, arr, prev,n);        // the case when we doesn't take the element in the subsequence
+        
+        if(prev <= arr[index]) {
+            res = max(res, helper(index+1,nums, arr, arr[index], n) + nums[index]);     // if the current element in the arr is greater than the previous element then add the value
+        }
+        
+        return res;     // returning the maximum of those two values
+
+    }
+    
+    long long maxBalancedSubsequenceSum(vector<int>& nums) {
+        int n = nums.size();        
+        vector<int>arr(n);
+        int maxi = -1e9 - 7;
+        
+        for(int i = 0; i < n; i++) {
+            arr[i] = nums[i] - i; 
+            maxi = max(maxi, nums[i]);      // if maximum element in the array nums is less than 0 then return that value
+        }
+        if(maxi < 0)return maxi;
+        return helper(0,nums, arr, -1e9-7 , n); 
+        
+        
+        
+    }
+};
