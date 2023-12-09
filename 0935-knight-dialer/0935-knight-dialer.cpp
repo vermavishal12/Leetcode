@@ -1,7 +1,6 @@
 // using dp and find out from which steps we can move to other steps
 // for example from 5 we cannot move to any position 
 // and from 4 we can move to 3, 9 and 0
-
 class Solution {
 public:
     typedef long long ll;
