@@ -4,13 +4,13 @@ public:
         int n = arr.size();
         int freq = 0;
         int prev = arr[0];
-        for(int i = 0; i < n ; i++) {
-            if(prev != arr[i]) {
-                freq =0;
+        for(auto &num : arr) {
+            if(prev != num){
+                freq= 0;
             }
             freq++;
-            if(freq > n/4)return arr[i];
-            prev = arr[i];
+            if(freq > n/4)return num;
+            prev= num;
         }
         
         return prev;
