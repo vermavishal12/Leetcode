@@ -3,25 +3,23 @@ public:
     int numberOfBeams(vector<string>& bank) {
         
         int res = 0;
+        int prev = 0;
         
         vector<int>arr;
         
         for(auto &b : bank) {
-            int count = 0;
+            int curr = 0;
             for(auto &c : b) {
                 if(c == '1') 
-                    count++;
+                    curr++;
                 
             }
-            if(count)
-                arr.push_back(count);
+            if(curr) {
+                res += prev*curr;
+                prev = curr;
+            }
         }
         
-        if(arr.size() < 2)return 0;
-        
-        for(int i = 0; i < arr.size() - 1; i++) {
-            res += arr[i]*arr[i+1];
-        }
         
         return res;
         
