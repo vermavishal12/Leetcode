@@ -102,3 +102,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/vermavishal12/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/vermavishal12/Leetcode/tree/master/1916-find-center-of-star-graph) |
