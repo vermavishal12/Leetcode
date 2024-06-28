@@ -24,6 +24,7 @@ All the solved Leetcode questions
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/vermavishal12/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vermavishal12/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Binary Search
@@ -92,6 +93,7 @@ All the solved Leetcode questions
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/vermavishal12/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vermavishal12/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/vermavishal12/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -115,3 +117,7 @@ All the solved Leetcode questions
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/vermavishal12/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vermavishal12/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0633-sum-of-square-numbers) |
