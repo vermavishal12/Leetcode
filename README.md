@@ -35,6 +35,7 @@ All the solved Leetcode questions
 # Sorting
 |  |
 | ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/vermavishal12/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vermavishal12/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Binary Indexed Tree
 |  |
@@ -58,6 +59,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vermavishal12/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/vermavishal12/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -102,7 +104,9 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/vermavishal12/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/vermavishal12/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/vermavishal12/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/vermavishal12/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
