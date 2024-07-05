@@ -12,8 +12,7 @@ class Solution {
 public:
 
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        int prevIndex = -1, currIndex = 0, prevValue = head->val;
-        int firstIndex = -1;
+        int prevIndex = -1, currIndex = 0, prevValue = head->val , firstIndex = -1;
         ListNode* itr = head->next;
         vector<int>res = {INT_MAX, -1};
         
