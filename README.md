@@ -142,6 +142,7 @@ All the solved Leetcode questions
 ## Array
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Greedy
@@ -173,4 +174,12 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
