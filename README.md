@@ -131,10 +131,12 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -191,4 +193,8 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
