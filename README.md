@@ -144,6 +144,7 @@ All the solved Leetcode questions
 ## Array
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -179,6 +180,7 @@ All the solved Leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
