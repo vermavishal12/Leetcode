@@ -155,11 +155,13 @@ All the solved Leetcode questions
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -194,6 +196,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -210,4 +213,9 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
