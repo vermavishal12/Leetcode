@@ -144,6 +144,7 @@ All the solved Leetcode questions
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -179,11 +180,13 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/vermavishal12/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/vermavishal12/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
@@ -217,6 +220,7 @@ All the solved Leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
