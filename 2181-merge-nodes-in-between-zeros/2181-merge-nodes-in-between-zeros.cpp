@@ -15,7 +15,7 @@ class Solution{
 
             
             ListNode* newHead = new ListNode(-1);
-            ListNode* itr = head, *ptr = newHead;
+            ListNode* itr = head, *ptr = itr;
             while(!itr) {
                 if(itr->val == 0) {
                     if(curr != 0) {
@@ -29,5 +29,5 @@ class Solution{
             }
         }
 
-        return newHead->next;
+        return ;
 }
