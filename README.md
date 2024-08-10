@@ -126,10 +126,12 @@ All the solved Leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -146,6 +148,7 @@ All the solved Leetcode questions
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -188,6 +191,7 @@ All the solved Leetcode questions
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
 |  |
@@ -221,6 +225,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -231,4 +236,8 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
