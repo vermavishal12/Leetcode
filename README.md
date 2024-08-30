@@ -144,6 +144,7 @@ All the solved Leetcode questions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vermavishal12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -230,6 +231,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,6 +278,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
 | ------- |
