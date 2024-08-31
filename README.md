@@ -142,6 +142,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vermavishal12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -156,6 +157,7 @@ All the solved Leetcode questions
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -230,6 +232,7 @@ All the solved Leetcode questions
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Sliding Window
@@ -278,6 +281,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
