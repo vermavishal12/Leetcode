@@ -167,6 +167,7 @@ All the solved Leetcode questions
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +185,7 @@ All the solved Leetcode questions
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vermavishal12/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vermavishal12/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@ All the solved Leetcode questions
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
