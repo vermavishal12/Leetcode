@@ -164,6 +164,7 @@ All the solved Leetcode questions
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -219,6 +220,7 @@ All the solved Leetcode questions
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/vermavishal12/Leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/vermavishal12/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -238,6 +240,7 @@ All the solved Leetcode questions
 | [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
@@ -341,6 +344,7 @@ All the solved Leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
@@ -351,4 +355,8 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
