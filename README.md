@@ -214,6 +214,7 @@ All the solved Leetcode questions
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -234,6 +235,7 @@ All the solved Leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -246,6 +248,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -287,6 +290,7 @@ All the solved Leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Union Find
 |  |
@@ -343,4 +347,8 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vermavishal12/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
