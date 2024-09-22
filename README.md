@@ -127,6 +127,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vermavishal12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -359,4 +360,8 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
