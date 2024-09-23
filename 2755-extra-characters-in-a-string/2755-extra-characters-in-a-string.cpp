@@ -1,48 +1,40 @@
 class Solution {
 public:
-    
-    string returnSubstring(string s, int low , int high) {
-        string res = "";
-        for(int i = low; i <= high ; i++){
-            res += s[i];
-        }
-        
-        return res;
-    }
-    
     int minExtraChar(string s, vector<string>& dictionary) {
-        unordered_map<string, bool>map;
-        
-        for(auto d : dictionary) {
-            map[d] = true;
-        }
-        
         int n = s.size();
-        vector<vector<int>>arr(n+1, vector<int>(n+1,100));
-        for(int i = 0; i < n ; i++) {
-            string temp = "";
+
+        unordered_map<string,bool>map;
+
+        for(auto& word : dictionary) {
+            map[word] = true;
+        }
+
+        vector<vector<int>>arr(n+1, vector<int>(n+1, 100));
+        string temp = "";
+        for(int i = 0; i <n ; i++) {
+            temp = "";
             temp += s[i];
             if(map[temp]){
                 arr[i][i] = 0;
-            }
-            else{
+            }else {
                 arr[i][i] = 1;
             }
         }
-        for(int l = 2; l <= n ; l++){
-            for(int i = 0;  i <= n-l ; i++){
-                string temp = returnSubstring(s,i,i+l-1);
-                if(map[temp]){
-                    arr[i][i+l-1] = 0;
+        for(int len = 2 ; len <= n ; len++) {
+            for(int i = 0 ; i <= n-len ; i++) {
+                string str = s.substr(i, len);
+                if(map[str]) {
+                    arr[i][i+len-1] = 0;
                 }
-                for(int j = i + 1; j < i+l ; j++) {
-                    arr[i][i+l-1] = min(arr[i][i+l-1] , arr[i][j-1] + arr[j][i+l-1]);
+                for(int j = i+1 ; j < i+len ; j++) {
+                    arr[i][i+len-1] = min(arr[i][i+len-1], arr[i][j-1] + arr[j][i+len-1]);
                 }
             }
         }
-        
-        
+
         return arr[0][n-1];
-        
+
+        // return 
+
     }
 };
