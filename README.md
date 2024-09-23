@@ -177,6 +177,7 @@ All the solved Leetcode questions
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -244,6 +245,7 @@ All the solved Leetcode questions
 | [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@ All the solved Leetcode questions
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -284,6 +287,7 @@ All the solved Leetcode questions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vermavishal12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -364,4 +368,5 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vermavishal12/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
