@@ -263,6 +263,7 @@ All the solved Leetcode questions
 | [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -284,11 +285,13 @@ All the solved Leetcode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/vermavishal12/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vermavishal12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -387,5 +390,6 @@ All the solved Leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
