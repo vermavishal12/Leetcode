@@ -160,6 +160,7 @@ All the solved Leetcode questions
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vermavishal12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -187,6 +188,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -195,6 +197,7 @@ All the solved Leetcode questions
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/vermavishal12/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -289,12 +292,14 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/vermavishal12/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vermavishal12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -348,6 +353,7 @@ All the solved Leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
