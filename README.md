@@ -219,6 +219,7 @@ All the solved Leetcode questions
 | [0906-walking-robot-simulation](https://github.com/vermavishal12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/vermavishal12/Leetcode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vermavishal12/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vermavishal12/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -271,6 +272,7 @@ All the solved Leetcode questions
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vermavishal12/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vermavishal12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -325,6 +327,7 @@ All the solved Leetcode questions
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vermavishal12/Leetcode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vermavishal12/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Union Find
 |  |
 | ------- |
