@@ -172,6 +172,7 @@ All the solved Leetcode questions
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vermavishal12/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vermavishal12/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -282,6 +283,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vermavishal12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Shortest Path
@@ -404,4 +406,8 @@ All the solved Leetcode questions
 | ------- |
 | [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
