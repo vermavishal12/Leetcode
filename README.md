@@ -185,6 +185,7 @@ All the solved Leetcode questions
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -300,6 +301,7 @@ All the solved Leetcode questions
 | [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/vermavishal12/Leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Hash Table
 |  |
@@ -365,6 +367,7 @@ All the solved Leetcode questions
 | [1325-path-with-maximum-probability](https://github.com/vermavishal12/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/vermavishal12/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,4 +416,16 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
