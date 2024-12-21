@@ -134,6 +134,7 @@ All the solved Leetcode questions
 | [1484-linked-list-in-binary-tree](https://github.com/vermavishal12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vermavishal12/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/vermavishal12/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@ All the solved Leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/vermavishal12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/vermavishal12/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Design
 |  |
 | ------- |
