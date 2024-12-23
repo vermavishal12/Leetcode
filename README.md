@@ -144,6 +144,7 @@ All the solved Leetcode questions
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vermavishal12/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vermavishal12/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Graph
 |  |
 | ------- |
@@ -355,6 +356,7 @@ All the solved Leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/vermavishal12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vermavishal12/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/vermavishal12/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Design
 |  |
@@ -380,6 +382,7 @@ All the solved Leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/vermavishal12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vermavishal12/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Data Stream
 |  |
 | ------- |
