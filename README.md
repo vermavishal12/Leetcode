@@ -136,6 +136,7 @@ All the solved Leetcode questions
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vermavishal12/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/vermavishal12/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vermavishal12/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ All the solved Leetcode questions
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vermavishal12/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vermavishal12/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
@@ -155,6 +157,7 @@ All the solved Leetcode questions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vermavishal12/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vermavishal12/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/vermavishal12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vermavishal12/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
@@ -361,6 +364,7 @@ All the solved Leetcode questions
 | [1484-linked-list-in-binary-tree](https://github.com/vermavishal12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vermavishal12/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/vermavishal12/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vermavishal12/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Design
 |  |
 | ------- |
