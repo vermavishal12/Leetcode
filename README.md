@@ -278,6 +278,7 @@ All the solved Leetcode questions
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vermavishal12/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2562-count-ways-to-build-good-strings](https://github.com/vermavishal12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
