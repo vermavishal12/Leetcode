@@ -195,6 +195,7 @@ All the solved Leetcode questions
 | [2035-count-sub-islands](https://github.com/vermavishal12/Leetcode/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2295-minimum-time-to-finish-the-race](https://github.com/vermavishal12/Leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -278,6 +279,7 @@ All the solved Leetcode questions
 | [1511-count-number-of-teams](https://github.com/vermavishal12/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vermavishal12/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2295-minimum-time-to-finish-the-race](https://github.com/vermavishal12/Leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2562-count-ways-to-build-good-strings](https://github.com/vermavishal12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
