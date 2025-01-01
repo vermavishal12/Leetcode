@@ -295,6 +295,7 @@ All the solved Leetcode questions
 | [0592-fraction-addition-and-subtraction](https://github.com/vermavishal12/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vermavishal12/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vermavishal12/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vermavishal12/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -415,6 +416,7 @@ All the solved Leetcode questions
 | ------- |
 | [1240-stone-game-ii](https://github.com/vermavishal12/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vermavishal12/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/vermavishal12/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
