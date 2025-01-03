@@ -196,6 +196,7 @@ All the solved Leetcode questions
 | [2155-find-missing-observations](https://github.com/vermavishal12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vermavishal12/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/vermavishal12/Leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
+| [2358-number-of-ways-to-split-array](https://github.com/vermavishal12/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vermavishal12/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -423,6 +424,7 @@ All the solved Leetcode questions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vermavishal12/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/vermavishal12/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/vermavishal12/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vermavishal12/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
