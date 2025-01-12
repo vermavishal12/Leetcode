@@ -213,6 +213,7 @@ All the solved Leetcode questions
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vermavishal12/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vermavishal12/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1917-maximum-average-pass-ratio](https://github.com/vermavishal12/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vermavishal12/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -307,6 +308,7 @@ All the solved Leetcode questions
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vermavishal12/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vermavishal12/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vermavishal12/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/vermavishal12/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vermavishal12/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -320,6 +322,7 @@ All the solved Leetcode questions
 | [0780-max-chunks-to-make-sorted](https://github.com/vermavishal12/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vermavishal12/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vermavishal12/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Shortest Path
 |  |
