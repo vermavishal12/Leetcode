@@ -202,6 +202,7 @@ All the solved Leetcode questions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vermavishal12/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vermavishal12/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/vermavishal12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2792-neighboring-bitwise-xor](https://github.com/vermavishal12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vermavishal12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -426,6 +427,7 @@ All the solved Leetcode questions
 | [0476-number-complement](https://github.com/vermavishal12/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vermavishal12/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2792-neighboring-bitwise-xor](https://github.com/vermavishal12/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
