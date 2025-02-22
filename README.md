@@ -181,6 +181,7 @@ All the solved Leetcode questions
 | [0906-walking-robot-simulation](https://github.com/vermavishal12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/vermavishal12/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/vermavishal12/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1017-odd-even-jump](https://github.com/vermavishal12/Leetcode/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/vermavishal12/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vermavishal12/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -288,6 +289,7 @@ All the solved Leetcode questions
 | [0241-different-ways-to-add-parentheses](https://github.com/vermavishal12/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/vermavishal12/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1017-odd-even-jump](https://github.com/vermavishal12/Leetcode/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/vermavishal12/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vermavishal12/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/vermavishal12/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -332,6 +334,7 @@ All the solved Leetcode questions
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vermavishal12/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1017-odd-even-jump](https://github.com/vermavishal12/Leetcode/tree/master/1017-odd-even-jump) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vermavishal12/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vermavishal12/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -487,6 +490,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/vermavishal12/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1017-odd-even-jump](https://github.com/vermavishal12/Leetcode/tree/master/1017-odd-even-jump) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermavishal12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -495,6 +499,7 @@ All the solved Leetcode questions
 ## Ordered Set
 |  |
 | ------- |
+| [1017-odd-even-jump](https://github.com/vermavishal12/Leetcode/tree/master/1017-odd-even-jump) |
 | [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
