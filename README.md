@@ -404,6 +404,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/vermavishal12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vermavishal12/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -420,6 +421,7 @@ All the solved Leetcode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vermavishal12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vermavishal12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -437,6 +439,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/vermavishal12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vermavishal12/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vermavishal12/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -450,6 +453,7 @@ All the solved Leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vermavishal12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/vermavishal12/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vermavishal12/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vermavishal12/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
