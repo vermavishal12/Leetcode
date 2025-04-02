@@ -174,6 +174,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vermavishal12/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -232,6 +233,7 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vermavishal12/Leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/vermavishal12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vermavishal12/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -361,6 +363,7 @@ All the solved Leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/vermavishal12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/vermavishal12/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -383,6 +386,7 @@ All the solved Leetcode questions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vermavishal12/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vermavishal12/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vermavishal12/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -431,6 +435,7 @@ All the solved Leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vermavishal12/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vermavishal12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vermavishal12/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -518,4 +523,16 @@ All the solved Leetcode questions
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/vermavishal12/Leetcode/tree/master/2868-continuous-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermavishal12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
